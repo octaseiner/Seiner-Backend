@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(168, 132, 168);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+input {
+    border: rgb(226, 226, 15);
+    border-radius: 10px;
+    background-color: rgb(226, 226, 15);
+    padding: 5px;
+    opacity: 0.5;
+}
+
+label {
+    margin: 5px;
+}
+
+div {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    border: rgb(226, 226, 15);
+    border-radius: 10px;
+    background-color: rgb(226, 226, 15);
+    padding: 5px;
+}
